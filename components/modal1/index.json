@@ -161,7 +161,7 @@
       "watch": []
     },
     {
-      "name": "kebabCaseTest",
+      "name": "kebabCaseTest1",
       "type": "open-api",
       "id": "open-api"
     }
