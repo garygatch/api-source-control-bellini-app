@@ -4,7 +4,7 @@
   "children": [],
   "variables": [
     {
-      "name": "ggpet",
+      "name": "ggpet1",
       "type": "open-api",
       "id": "open-api"
     }
