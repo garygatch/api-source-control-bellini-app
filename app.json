@@ -1,0 +1,48 @@
+{
+  "name": "api-source-control",
+  "type": "app",
+  "defaultPage": "home",
+  "config": {
+    "config": {
+      "parameters": [],
+      "script": ""
+    },
+    "modules": [],
+    "properties": {
+      "version": "1.0.0-SNAPSHOT"
+    },
+    "environments": [],
+    "themes": [],
+    "auth": {
+      "enabled": false,
+      "mockedUserAccounts": []
+    }
+  },
+  "directories": {
+    "assets": [],
+    "components": [
+      {
+        "id": "VZUKVbdwJLe4noiwtYZw-",
+        "name": "dir"
+      }
+    ],
+    "pages": [
+      {
+        "id": "Xg9qn9cU_e7K4Nn5MTcXL",
+        "name": "dir"
+      }
+    ],
+    "scripts": [],
+    "services": [
+      {
+        "id": "yKzUh2xOV9vixK4vf5OUY",
+        "name": "dir"
+      }
+    ],
+    "stylesheets": []
+  },
+  "externalScripts": [],
+  "externalStylesheets": [],
+  "localScripts": [],
+  "localStylesheets": []
+}

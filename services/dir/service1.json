@@ -1,0 +1,15 @@
+{
+  "type": "app-service",
+  "name": "service1",
+  "description": "",
+  "singleton": true,
+  "variables": [
+    {
+      "name": "ggpet",
+      "type": "open-api",
+      "id": "open-api"
+    }
+  ],
+  "visible": [],
+  "parentDirectoryId": "yKzUh2xOV9vixK4vf5OUY"
+}

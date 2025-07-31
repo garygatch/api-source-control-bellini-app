@@ -1,0 +1,15 @@
+{
+  "name": "p1",
+  "type": "page",
+  "url": "/p1",
+  "params": {},
+  "variables": [
+    {
+      "name": "ggpet",
+      "type": "open-api",
+      "id": "open-api"
+    }
+  ],
+  "children": [],
+  "parentDirectoryId": "Xg9qn9cU_e7K4Nn5MTcXL"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "custom-component",
+  "name": "comp1",
+  "children": [],
+  "variables": [
+    {
+      "name": "ggpet",
+      "type": "open-api",
+      "id": "open-api"
+    }
+  ],
+  "bindings": [],
+  "modules": [],
+  "styles": [],
+  "parentDirectoryId": "VZUKVbdwJLe4noiwtYZw-",
+  "externalScripts": [],
+  "externalStylesheets": [],
+  "localScripts": [],
+  "localStylesheets": []
+}
